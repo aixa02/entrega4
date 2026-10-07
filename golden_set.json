@@ -1,0 +1,22 @@
+[
+    {
+        "pregunta": "How do I allow requests from other origins with allow_origins?",
+        "documento_id_esperado": "cors.md"
+    },
+    {
+        "pregunta": "How can I run a task after returning a response using BackgroundTasks?",
+        "documento_id_esperado": "background-tasks.md"
+    },
+    {
+        "pregunta": "How do I add a custom X-Process-Time header to every response?",
+        "documento_id_esperado": "middleware.md"
+    },
+    {
+        "pregunta": "How do I declare an optional query parameter with a default value of None?",
+        "documento_id_esperado": "query-params.md"
+    },
+    {
+        "pregunta": "How do I declare a request body using a Pydantic BaseModel?",
+        "documento_id_esperado": "body.md"
+    }
+]
